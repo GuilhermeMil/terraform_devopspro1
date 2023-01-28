@@ -1,2 +1,4 @@
 # terraform_devopspro1
-Primeira aula de terraform
+aula de terraform
+>droplet Jenkins
+>cluster k8s app
